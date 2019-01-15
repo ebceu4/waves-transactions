@@ -1,3 +1,4 @@
+# PROJECT MOVED TO [*WAVESPLATFORM/WAVES-TRANSACTIONS*](https://github.com/wavesplatform/waves-transactions). THIS REPOSITORY IS NO LONGER MAINTAINED!! PLEASE USE WAVESPLATFORM [REPOSITORY](https://github.com/wavesplatform/waves-transactions), [DOCS](https://wavesplatform.github.io/waves-transactions/) AND [NPM PACKAGE](https://www.npmjs.com/package/@waves/waves-transactions)
 # waves-transactions  [![npm version](https://badge.fury.io/js/waves-transactions.svg)](https://www.npmjs.com/package/waves-transactions)
 
 [![License][license-image]][license-url] ![Coverage badge gree][coverage-badge-green]
